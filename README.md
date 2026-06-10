@@ -43,7 +43,7 @@ This project demonstrates a multi-campus enterprise network architecture designe
 
 ## Network Topology
 
-(Add topology screenshot here)
+![Network Topology](Network-Topology.png)
 
 ## Project Structure
 
