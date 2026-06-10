@@ -1,5 +1,11 @@
 # Enterprise Network Architecture using Cisco Packet Tracer
 
+Project Type: Academic Enterprise Networking Project
+
+Status: Completed
+
+Tools Used: Cisco Packet Tracer
+
 ## Project Overview
 
 This project demonstrates a multi-campus enterprise network architecture designed and implemented using Cisco Packet Tracer. The network integrates routing, switching, security, wireless communication, and server services to simulate a real-world enterprise environment.
@@ -65,29 +71,48 @@ Enterprise-Network-Architecture-Cisco-Packet-Tracer
 
 ## Testing Results
 
-✔ OSPF Route Exchange Verified
+✔ VLAN Segmentation Verified
 
-✔ HSRP Failover Verified
+✔ Inter-VLAN Routing Verified
+
+✔ OSPF Dynamic Routing Verified
+
+✔ HSRP Gateway Redundancy Verified
+
+✔ EtherChannel (LACP) Verified
 
 ✔ DHCP Automatic IP Assignment Verified
 
-✔ DNS Resolution Verified
+✔ DNS Name Resolution Verified
 
-✔ HTTP Service Verified
+✔ HTTP Web Service Verified
 
-✔ Email Communication Verified
+✔ Email Service (SMTP/POP3) Verified
 
-✔ NAT Translation Verified
+✔ NAT/PAT Translation Verified
 
 ✔ ACL Security Policy Verified
 
+✔ Port Security Verified
+
 ✔ Wireless Connectivity Verified
 
-## Team Members
+✔ Guest Wireless Access Verified
 
-- Faisal Hamid (1018)
-- Hasibul Haque Galib (1020)
-- Emam Hossain Epu (1029)
+✔ IoT Device Communication Verified
+
+✔ End-to-End Campus Connectivity Verified
+
+## Author
+
+**Faisal Hamid**
+
+Computer Science and Engineering Student
+
+Research Interests:
+- Computer Networks
+- Data Science
+- Network Security
 
 ## Supervisor
 
