@@ -133,16 +133,16 @@ Enterprise-Network-Architecture-Cisco-Packet-Tracer
 
 **Faisal Hamid**
 
-Developed in collaboration with:
-- Hasibul Haque Galib
-- Emam Hossain Epu
-
 Computer Science and Engineering Student
 
 Research Interests:
 - Computer Networks
 - Data Science
 - Network Security
+
+Developed in collaboration with:
+- Hasibul Haque Galib
+- Emam Hossain Epu
 
 ## Supervisor
 
