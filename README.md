@@ -45,6 +45,32 @@ This project demonstrates a multi-campus enterprise network architecture designe
 
 ![Network Topology](Network-Topology.png)
 
+## Configuration Verification
+
+### VLAN Configuration
+![VLAN](Screenshots/VLAN.png)
+
+### OSPF Dynamic Routing
+![OSPF](Screenshots/OSPF.png)
+
+### HSRP Gateway Redundancy
+![HSRP](Screenshots/HSRP.png)
+
+### DHCP Service
+![DHCP](Screenshots/DHCP.png)
+
+### DNS Service
+![DNS](Screenshots/DNS.png)
+
+### ACL Security Policy
+![ACL](Screenshots/ACL.png)
+
+### NAT Translation
+![NAT](Screenshots/NAT.png)
+
+### Wireless & IoT Integration
+![Wireless](Screenshots/Wireless.png)
+
 ## Project Structure
 
 ```text
@@ -106,6 +132,10 @@ Enterprise-Network-Architecture-Cisco-Packet-Tracer
 ## Author
 
 **Faisal Hamid**
+
+Developed in collaboration with:
+- Hasibul Haque Galib
+- Emam Hossain Epu
 
 Computer Science and Engineering Student
 
